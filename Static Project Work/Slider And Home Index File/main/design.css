@@ -1,0 +1,163 @@
+.main{
+	width: 100%;
+	height: 2000px;
+	position: relative;
+	box-sizing: border-box;
+	float: left; 
+	top: -370px;
+}
+.img{
+	width: 100%;
+	height: 600px;
+	position: relative;
+	box-sizing: border-box;
+	float: left; 
+}
+.img img{
+	width: 100%;
+	height: 600px;
+}
+.started,.enjoy, .search{
+	width: 100%;
+	height: 150px;
+	position: relative;
+	box-sizing: border-box;
+	float: left; 
+	text-align: center;
+	padding-top:0px;
+}
+.started p{
+	font-size: 30px;
+	/*padding-top: 20px*/  
+}
+.technology, .driven{
+	width: 100%;
+	height: 350px;
+	background-color: #f1f1f1;
+	position: relative;
+	box-sizing: border-box;
+	float: left; 
+}
+.technology_img,.technology_content{
+	width: 50%;
+	height: 350px;
+	position: relative;
+	box-sizing: border-box;
+	float:left;
+}
+.technology_img img{
+	width: 60%;
+	height: 350px;
+	float: right;
+	padding-right: 40px;
+	border-radius: 40%;
+}
+.technology_content{
+	padding-top:30px; 
+	padding-right: 50px; 
+}
+.technology_content h1{
+	font-size: 40px;
+	padding-bottom: 30px; 
+}
+.technology_content p{
+	font-size: 20px;
+	/*padding-bottom: 10px;*/
+}
+.life, .cares{
+	width: 100%;
+	height: 350px;
+	position: relative;
+	box-sizing: border-box;
+	float:left;
+}
+.life_content,.life_img,.driven_img,.driven_content,.cares_content,.cares_img{
+	width: 50%;
+	height: 350px;
+	position: relative;
+	box-sizing: border-box;
+	float:left;
+}
+.life_content{
+	padding-left: 100px;
+	padding-top: 0px;
+	padding-right: 100px;
+}
+.life_img{
+	padding-left:50px;
+	padding-top: 30px 
+}
+.life_content h1{
+	font-size: 40px; 
+}
+.life_content p{
+	font-size: 20px;
+	padding-top: 0px;
+}
+.life_img img,.driven_img img{
+	width: 90%;
+	width: 300px;
+	border-radius: 40%;
+}
+.driven_img{
+	padding-left: 120px;
+	padding-top: 50px
+}
+.driven_content{
+	padding-top: 0px;
+	padding-right: 150px;
+}
+.driven_content h1{
+	font-size: 40px;
+	padding-bottom: 0px;
+}
+.driven_content p{
+	font-size: 20px;
+	padding-top: 0px;
+}
+.cares_content{
+	padding-left: 150px;
+	padding-top: 0px;
+}
+.cares_content h1{
+	font-size: 40px;
+	padding-bottom: 30px;	
+}
+.cares_content p{
+	font-size: 20px;
+}
+.cares_img{
+	padding-top: 30px;
+	padding-left: 30px;
+}
+.cares_img img{
+	width: 90%;
+	height: 300px;
+	border-radius: 40%;
+}
+.enjoy{
+	background-color: #f1f1f1;
+	height: 170px;
+}
+.enjoy h1{
+	font-size: 40px
+}
+.search h1{
+	font-size: 30px;
+	text-align: center;
+	padding-bottom: 20px
+	padding-top: 10px;
+}
+#select{
+	width: 200px;
+	height: 30px;
+	background-color: #f1f1f1;
+}
+.search button{
+	width: 100px;
+	height: 30px;
+	background-color: black;
+	color: white;
+	border-radius: 50px;
+}
+

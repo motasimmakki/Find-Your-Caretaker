@@ -1,0 +1,183 @@
+body,html{
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	position: relative;
+	user-select: none;
+}
+.footer_body{
+	position: relative;
+	width: 100%;
+	height: 450px;
+	top: 835px;
+	background-image: url('myfooter_tile3.jpg');
+}
+.footer_title{
+	text-align: center;
+	font-size: 15px;
+	font-family:'calibri';
+	color:#660000;
+	border: 2px solid none;
+}
+.footer_nav{
+	border: 2px solid none;
+	margin-top: 30px;
+}
+.footer_nav a{
+	margin-left:130px;
+	font-size: 25px;
+	font-family:'calibri';
+	text-decoration: none;
+	color: black; 
+}
+.footer_tag{
+	font-size: 15px;
+	/*border: 2px solid black;*/
+}
+.footer_header{
+	text-align: center;
+}
+.footer_name{
+	margin-left: 230px;
+}
+.footer_member img{
+	width: 30px;
+	height: 30px;
+	margin-left: 30px;
+}
+.footer_follow ul li{
+	list-style-type:none;
+	display: inline-block;
+}
+.footer_member{
+	margin-left: 120px;
+}
+.team_tag{
+	text-align: center;
+	font-size: 20px;
+	font-family:'calibri';
+	color:#660000;
+	font-weight: bolder;
+	border: 2px solid none;
+}
+.team_logo img{
+	margin: auto;
+	widows: 100px;
+	height: 100px;
+}
+.header_logo img{
+	margin: auto;
+	widows: 100px;
+	height: 100px;
+}
+.team_logo{
+	text-align: center;
+}
+.header_body{
+	width: 100%;
+	height: 100px;
+	border:2px solid black;
+	background-image: url('myfooter_tile3.jpg');
+	position: fixed;
+	top:0px;
+	z-index: 100;
+}
+.header_logo{
+	display: inline-block;
+	border: 2px solid none;
+	float: left;
+}
+.header_nav{
+	border: 2px solid none;
+	margin-top: 30px;
+	display: inline-block;
+	float:right;
+}
+.header_nav a{
+	margin-right:60px;
+	font-size: 25px;
+	font-family:'calibri';
+	text-decoration: none;
+	color: black; 
+}
+.login_module{
+	margin-left: 150px;
+}
+.login_module a{
+	font-size: 25px;
+	font-family:'calibri';
+	color:yellow;
+}
+.login_module a:hover{
+	color: red;
+}
+.home_image img{
+	width: 100%;
+	height: 100vh;
+}
+.container_body{
+	width: 100%;
+	height: 100vh;
+	padding-top: 10px;
+	position: relative;
+	/*border:2px solid black;*/
+}
+.container{
+	position: relative;
+	margin: auto;
+	margin-top: 80px;
+	width: 50%;
+	padding: 30px 30px 30px 30px;
+	text-align: center;
+	background-color: #b06e28;
+	background: rgba(176, 110, 40, 0.5);
+	user-select: none;
+	border-radius: 20px;
+	position: relative;
+	/*border:2px solid black;*/
+}
+.label_design{
+	width: 500px;
+	height: 30px;
+	border-radius: 10px;
+	outline: none;
+}
+.contactUsSubmitButton{
+	width: 250px;
+	height: 40px;	
+	margin-top: 20px;
+	border-radius: 10px;
+	outline: none;
+	font-size: 30px;
+}
+.place{
+	width: 500px;
+	height: 50px;
+	border-radius: 10px;
+}
+.contactUs_image img{
+	width: 100%;
+	height: 100vh;
+}
+
+.TC_background{
+	padding-top: 10px;
+	padding-bottom: 20px;
+	background-image: url(home2.jpg);
+	background-size: cover;
+	position: absolute;
+	top: 80px;
+	/*background-repeat: no-repeat;*/
+}
+.TC_container{
+	padding-top: 30px 30px 30px 30px;
+	/*border : 4px solid black;*/
+	position: relative;
+	border-radius: 10px;
+	width: 85%;
+	margin: auto;
+	/*background:rgba(242, 242, 242,0.7);*/
+	background: rgba(176, 110, 40, 0.5);
+	color: white;
+}
+
