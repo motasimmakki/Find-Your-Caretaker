@@ -1,5 +1,15 @@
 # Find-Your-Caretaker
-This repository contain the Implementation Code of the project and external resourced that are used.
+# <h1>INTRODUCTION :<h2>
+<ul>
+   <li>
+      There are many reasons for what this Web Application should be build. This kind of project may fulfill the need of many users. We need this kind of project or interface in this running world as there are lot of people who are suffering from lack of employment.
+   </li>
+   <li>
+      Users can be able to take the advantages of this Web Application and functionalities provided by this interface to fulfill their requirements. The proper use of functionality would be very helpful to find a job for an individual according to his/her capabilities and in his/her own likable field.
+   </li>
+</ul>
+
+
 # <h2 align="center">| Home Page |<h2>
 <p align="center">
 <samp> 
