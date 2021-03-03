@@ -15,7 +15,7 @@ This repository contain the Implementation Code of the project and external reso
 # <h2 align="center">| Culture |<h2>
 <p align="center">
 <samp> 
-   <img align="center" src="https://github.com/motasimmakki/Find-Your-Caretaker/blob/master/Culture.png" width="800" height="700"/>
+   <img align="center" src="https://github.com/motasimmakki/Find-Your-Caretaker/blob/master/Culture.png" width="800" height="900"/>
 </samp>
 
 # <h2 align="center">| Contact Us |<h2>
