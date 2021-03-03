@@ -34,8 +34,8 @@
    <li>jQuery</li>
 </ul>
 
-<h2> Screenshots :<h2>   
-# <h2 align="center">| Home Page |<h2>
+# <h2> Screenshots :<h2><br>
+ <h2 align="center">| Home Page |<h2>
 <p align="center">
 <samp> 
    <img align="center" src="https://github.com/motasimmakki/Find-Your-Caretaker/blob/master/HomePage.png" width="800" height="700"/>
