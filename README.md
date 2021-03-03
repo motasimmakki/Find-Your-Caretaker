@@ -34,7 +34,7 @@
    <li>jQuery</li>
 </ul>
 
-# <h2> Screenshots :<h2><br>
+# <h2> Screenshots :<h2>
  <h2 align="center">| Home Page |<h2>
 <p align="center">
 <samp> 
