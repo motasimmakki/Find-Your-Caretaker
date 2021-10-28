@@ -37,55 +37,55 @@
 # <h2> Screenshots :<h2>
 |Home Page|
 |------|
-|<img src="https://github.com/motasimmakki/Find-Your-Caretaker/blob/master/HomePage.png" width="800" height="700" />|
+|<img src="./resources/HomePage.png" width="800" height="700" />|
 
 |About Us|
 |------|
-|<img src="https://github.com/motasimmakki/Find-Your-Caretaker/blob/master/AboutUs.png" width="800" height="700" />|
+|<img src="./resources/AboutUs.png" width="800" height="700" />|
 
 |Culture|
 |------|
-|<img src="https://github.com/motasimmakki/Find-Your-Caretaker/blob/master/Culture.png" width="800" height="1400" />|
+|<img src="./resources/Culture.png" width="800" height="1400" />|
 
 |Contact Us|
 |------|
-|<img src="https://github.com/motasimmakki/Find-Your-Caretaker/blob/master/ContactUs.png" width="800" height="700" />|
+|<img src="./resources/ContactUs.png" width="800" height="700" />|
 
 |Terms & Conditions|
 |------|
-|<img src="https://github.com/motasimmakki/Find-Your-Caretaker/blob/master/TermsAndConditions.png" width="800" height="700" />|
+|<img src="./resources/TermsAndConditions.png" width="800" height="700" />|
 
 |Privacy Policy|
 |------|
-|<img src="https://github.com/motasimmakki/Find-Your-Caretaker/blob/master/PrivacyPolicy.png" width="800" height="700" />|
+|<img src="./resources/PrivacyPolicy.png" width="800" height="700" />|
 
 |Registration Form|
 |------|
-|<img src="https://github.com/motasimmakki/Find-Your-Caretaker/blob/master/Registration.png" width="800" height="700" />|
+|<img src="./resources/Registration.png" width="800" height="700" />|
 
 |Registration Successful|
 |------|
-|<img src="https://github.com/motasimmakki/Find-Your-Caretaker/blob/master/RegistrationSuccess.png" width="800" height="700" />|
+|<img src="./resources/RegistrationSuccess.png" width="800" height="700" />|
 
 |Message Successful|
 |------|
-|<img src="https://github.com/motasimmakki/Find-Your-Caretaker/blob/master/MessageSuccess.png" width="800" height="700" />|
+|<img src="./resources/MessageSuccess.png" width="800" height="700" />|
 
 |Apply Or Find|
 |------|
-|<img src="https://github.com/motasimmakki/Find-Your-Caretaker/blob/master/ApplyOrFind.png" width="800" height="700" />|
+|<img src="./resources/ApplyOrFind.png" width="800" height="700" />|
 
 |Apply Form|
 |------|
-|<img src="https://github.com/motasimmakki/Find-Your-Caretaker/blob/master/ApplyPage.png" width="800" height="700" />|
+|<img src="./resources/ApplyPage.png" width="800" height="700" />|
 
 |Find Form|
 |------|
-|<img src="https://github.com/motasimmakki/Find-Your-Caretaker/blob/master/FindPage.png" width="800" height="700" />|
+|<img src="./resources/FindPage.png" width="800" height="700" />|
 
 |Application Recorded|
 |------|
-|<img src="https://github.com/motasimmakki/Find-Your-Caretaker/blob/master/ApplicationRecorded.png" width="800" height="700" />|
+|<img src="./resources/ApplicationRecorded.png" width="800" height="700" />|
   
 <h6 align='center'>
    / <> with 🧡 By Motasim /
